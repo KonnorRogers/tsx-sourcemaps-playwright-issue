@@ -7,4 +7,4 @@ npm install
 npm run test
 ```
 
-You should expect to see the error from line 4, but instead you get the error from line 1.
+You should expect to see the error from line 5, but instead you get the error from line 1.
