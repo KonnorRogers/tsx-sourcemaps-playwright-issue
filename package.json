@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.8.1",
+    "tsx": "^4.10.2"
+  },
+  "dependencies": {
+    "playwright": "^1.56.1"
+  }
+}
